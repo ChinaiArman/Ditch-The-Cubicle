@@ -28,7 +28,7 @@ Technologies used for this project:
 * JavaScript > MapBox API
 * Python > BeautifulSoup, GeoPY
 * Bootstrap
-* MapBox
+* MapBox API
 * Google Firebase / Firestore
 * Google Fonts and Icons
 
